@@ -1,0 +1,59 @@
+body{
+    background-color: gray;
+}
+
+.bkg{
+    background-color: white;
+    height: 660px;
+    width: 100%;
+}
+
+.right{
+    float: right;
+}
+
+.center{
+    text-align: center;
+}
+
+.formspace{
+    margin-left: 10%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkgreen;
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    font-size: 20px;
+}
+
+.logout{
+    color: blue;
+}
+
+.logout:hover{
+    color: red;
+    text-decoration: none;
+}
+
+.wl{
+    font-size: 20px;
+}
+
+.red{
+    font-size: 14px;
+    color: red;
+}
+
+.view{
+    width: 120%;
+    background-color: whitesmoke;
+}
